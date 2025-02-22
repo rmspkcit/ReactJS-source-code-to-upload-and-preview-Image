@@ -1,0 +1,17 @@
+#i
+{ 
+width: 510px;
+height: 400px;
+ border: 1px solid #ccc;
+}
+
+#box
+{
+display:block;
+text-align:center;
+
+}
+h2,h3
+{
+color:#FF6F61;
+}
